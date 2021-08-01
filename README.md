@@ -16,5 +16,6 @@
 
  ![Snake animation](https://github.com/ti4gods/ti4gods/blob/output/github-contribution-grid-snake.svg)
  -->
-  
+ <img src="https://komarev.com/ghpvc/?username=ti4gods&color=green" alt="ti4gods" /> 
+ 
   ##
